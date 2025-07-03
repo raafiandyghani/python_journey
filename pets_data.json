@@ -1,0 +1,65 @@
+{
+    "dadang": {
+        "name": "dadang",
+        "hunger": 0,
+        "happiness": 0,
+        "age": 16,
+        "alive": false
+    },
+    "dudung": {
+        "name": "dudung",
+        "hunger": 0,
+        "happiness": 0,
+        "age": 17,
+        "alive": false
+    },
+    "dodong": {
+        "name": "dodong",
+        "hunger": 0,
+        "happiness": 0,
+        "age": 17,
+        "alive": false
+    },
+    "adul": {
+        "name": "adul",
+        "hunger": 0,
+        "happiness": 0,
+        "age": 11,
+        "alive": false
+    },
+    "buntet": {
+        "name": "buntet",
+        "hunger": 0,
+        "happiness": 0,
+        "age": 12,
+        "alive": false
+    },
+    "itachi": {
+        "name": "itachi",
+        "hunger": 0,
+        "happiness": 0,
+        "age": 5,
+        "alive": false
+    },
+    "naruto": {
+        "name": "naruto",
+        "hunger": 1,
+        "happiness": 1,
+        "age": 5,
+        "alive": true
+    },
+    "dendeng": {
+        "name": "dendeng",
+        "hunger": 7,
+        "happiness": 85,
+        "age": 3,
+        "alive": true
+    },
+    "sinobi": {
+        "name": "sinobi",
+        "hunger": 9,
+        "happiness": 90,
+        "age": 2,
+        "alive": true
+    }
+}
